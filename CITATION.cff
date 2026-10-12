@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Scholas"
+    alias: "scholas895"
+    website: "https://github.com/scholas895"
+title: "CPST-MalariaNet: Hybrid Deep Learning for Malaria Forecasting in Burundi"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/scholas895/CPST-MalariaNet"
+license: MIT
